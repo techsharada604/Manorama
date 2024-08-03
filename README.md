@@ -5,3 +5,5 @@ This project is a virtual reality experience created using Unity, featuring a me
 ## What is Virtual Reality?
 Virtual Reality (VR) is a simulated experience that can either mimic the real world or create an entirely new environment. Through VR technology, users can immerse themselves in a 3D space and interact with digital elements as if they were physically present. This is achieved using specialized hardware, such as VR headsets and controllers, which track users' movements and provide a sense of presence within the virtual world.
 
+## Unity
+Unity is a powerful and widely-used game development engine that allows creators to build interactive 2D and 3D experiences across various platforms. Known for its versatility and user-friendly interface, Unity is employed for developing video games, simulations, virtual reality (VR) environments, and augmented reality (AR) applications.
