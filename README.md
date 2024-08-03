@@ -7,3 +7,6 @@ Virtual Reality (VR) is a simulated experience that can either mimic the real wo
 
 ## Unity
 Unity is a powerful and widely-used game development engine that allows creators to build interactive 2D and 3D experiences across various platforms. Known for its versatility and user-friendly interface, Unity is employed for developing video games, simulations, virtual reality (VR) environments, and augmented reality (AR) applications.
+
+## Oculus Quest
+The Oculus Quest is a standalone virtual reality (VR) headset developed by Oculus, a subsidiary of Meta (formerly Facebook). It offers a fully immersive VR experience without the need for external sensors or a connected PC, making it a popular choice for users seeking a high-quality, wireless VR experience.
