@@ -17,4 +17,4 @@ The Oculus Quest is a standalone virtual reality (VR) headset developed by Oculu
 https://drive.google.com/drive/folders/1-DRIpKeJP7Z0dtMZ9ueypf47GWPG4Jjj?usp=sharing
 
 ### Reference
-https://r.search.yahoo.com/_ylt=AwrPo.6ch65mygQAt967HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1723923612/RO=10/RU=https%3a%2f%2flearn.unity.com%2flearn%2fpathway%2fvr-development/RK=2/RS=aLJ.HeSbnMatH2YuHdR606jUrB8-
+https://learn.unity.com/learn/pathway/vr-development
