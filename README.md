@@ -14,7 +14,7 @@ Unity is a powerful and widely-used game development engine that allows creators
 The Oculus Quest is a standalone virtual reality (VR) headset developed by Oculus, a subsidiary of Meta (formerly Facebook). It offers a fully immersive VR experience without the need for external sensors or a connected PC, making it a popular choice for users seeking a high-quality, wireless VR experience.
 
 ## Drive Link for the Project
-https://drive.google.com/drive/folders/1-DRIpKeJP7Z0dtMZ9ueypf47GWPG4Jjj?usp=sharing
+https://drive.google.com/drive/folders/1hWqdq_SCmbdLfSfxBdqLc_qIeCnmO6wa?usp=sharing
 
 ### Reference
 https://learn.unity.com/learn/pathway/vr-development
